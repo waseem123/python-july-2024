@@ -1,0 +1,21 @@
+Function - 
+Function is a block of code that performs a specific task.
+
+Function has two phases in Python - 
+1. Definition - To write the actual functional code(function body)
+2. Invocation / Calling Phase - To use the function as per requirement
+
+1. Syntax to define a function - 
+    def nameoffunction(p1,p2,...pN):
+        statement 1
+        statement 2
+        ...
+        statement N
+2. Syntax to call the function - 
+    nameoffunction(v1,v2...vN)
+
+There are 4 General Types of Functions - 
+1. Function with No parameter and No Return Value
+2. Function with Parameter and No Return Value
+3. Function with No Parameter and Return Value
+4. Function with Parameter and Return Value Both
