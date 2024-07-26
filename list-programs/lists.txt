@@ -1,0 +1,6 @@
+What is List?
+List is an ordered, indexed, mutable collection of the elements in python.
+List allows us to store duplicate values.
+
+Syntax to create a list - 
+1. name-of-list = [value 1, value 2, value 3.... value N]
