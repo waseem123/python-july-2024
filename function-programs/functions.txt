@@ -19,3 +19,11 @@ There are 4 General Types of Functions -
 2. Function with Parameter and No Return Value
 3. Function with No Parameter and Return Value
 4. Function with Parameter and Return Value Both
+
+There are 4 Python specific Types of Functions - 
+1. Default Argument Functions
+2. Keyword Argument Functions
+3. Arbitrary Argument Functions
+4. Keyword Arbitrary Argument Functions
+
+Recursion
