@@ -1,0 +1,11 @@
+mylist = ['Sanjana','Suraj','Hasan','Mayur','Nikhil','Waseem','Alex','Peter','John','Leo']
+print(mylist)
+print(mylist[0:5])
+print(mylist[2:7])
+print(mylist[5:])
+print(mylist[:3])
+print(mylist[:])
+print(mylist[1:10:2])
+print(mylist[0:5:3])
+print(mylist[:6:2])
+print(mylist[::2])
